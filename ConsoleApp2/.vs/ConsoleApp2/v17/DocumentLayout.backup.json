@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98AC8E5C-C7DD-4570-8177-202142AFFBD0}|ConsoleApp2\\ConsoleApp2.csproj|d:\\project\\consoleapp2\\consoleapp2\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AC8E5C-C7DD-4570-8177-202142AFFBD0}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AC8E5C-C7DD-4570-8177-202142AFFBD0}|ConsoleApp2\\ConsoleApp2.csproj|d:\\project\\consoleapp2\\consoleapp2\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AC8E5C-C7DD-4570-8177-202142AFFBD0}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AC8E5C-C7DD-4570-8177-202142AFFBD0}|ConsoleApp2\\ConsoleApp2.csproj|d:\\project\\consoleapp2\\consoleapp2\\inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AC8E5C-C7DD-4570-8177-202142AFFBD0}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AC8E5C-C7DD-4570-8177-202142AFFBD0}|ConsoleApp2\\ConsoleApp2.csproj|d:\\project\\consoleapp2\\consoleapp2\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AC8E5C-C7DD-4570-8177-202142AFFBD0}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AC8E5C-C7DD-4570-8177-202142AFFBD0}|ConsoleApp2\\ConsoleApp2.csproj|d:\\project\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AC8E5C-C7DD-4570-8177-202142AFFBD0}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputOutput.cs",
+              "DocumentMoniker": "D:\\project\\ConsoleApp2\\ConsoleApp2\\InputOutput.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\InputOutput.cs",
+              "ToolTip": "D:\\project\\ConsoleApp2\\ConsoleApp2\\InputOutput.cs",
+              "RelativeToolTip": "ConsoleApp2\\InputOutput.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAYwLoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T05:08:44.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "D:\\project\\ConsoleApp2\\ConsoleApp2\\Parser.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Parser.cs",
+              "ToolTip": "D:\\project\\ConsoleApp2\\ConsoleApp2\\Parser.cs",
+              "RelativeToolTip": "ConsoleApp2\\Parser.cs",
+              "ViewState": "AgIAALIBAAAAAAAAAAAgwMYBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:52:17.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SymbolTable.cs",
+              "DocumentMoniker": "D:\\project\\ConsoleApp2\\ConsoleApp2\\SymbolTable.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\SymbolTable.cs",
+              "ToolTip": "D:\\project\\ConsoleApp2\\ConsoleApp2\\SymbolTable.cs",
+              "RelativeToolTip": "ConsoleApp2\\SymbolTable.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:52:00.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LexicalAnalyzer.cs",
+              "DocumentMoniker": "D:\\project\\ConsoleApp2\\ConsoleApp2\\LexicalAnalyzer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\LexicalAnalyzer.cs",
+              "ToolTip": "D:\\project\\ConsoleApp2\\ConsoleApp2\\LexicalAnalyzer.cs",
+              "RelativeToolTip": "ConsoleApp2\\LexicalAnalyzer.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAIwMMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:51:42.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\project\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:49:11.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
